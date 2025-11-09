@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poojadidi/static/css/main.86f44d50.css",
+    "main.js": "/poojadidi/static/js/main.b5a9ce12.js",
+    "index.html": "/poojadidi/index.html",
+    "main.86f44d50.css.map": "/poojadidi/static/css/main.86f44d50.css.map",
+    "main.b5a9ce12.js.map": "/poojadidi/static/js/main.b5a9ce12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f44d50.css",
+    "static/js/main.b5a9ce12.js"
+  ]
+}
